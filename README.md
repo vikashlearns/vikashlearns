@@ -53,7 +53,7 @@ Currently exploring:
 ![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashlearns&show_icons=true&theme=tokyonight)
 
 ## 📫 How to Reach Me
-- 📧 Email: [rawatvikash474@gmail.com](mailto:vikash.rawat1090@gmail.com)
+- 📧 Email: [vikash.rawat1090@gmail.com](mailto:vikash.rawat1090@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/vikashrawat](https://linkedin.com/in/vikashrawat)
 - 🌐 Personal Website: [vikashlearns.xyz](https://vikashlearns.xyz)
 
