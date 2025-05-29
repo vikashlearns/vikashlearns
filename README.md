@@ -28,9 +28,9 @@ I’m Vikash, a DevSecOps and Cloud Engineer with over a decade of experience. I
 - **HashiCorp**: Experienced with **Terraform** for infrastructure provisioning and **Vault** for secrets management. Continuously exploring **Consul** and **Packer** to improve my cloud security posture and infrastructure automation.
 
 ## 📦 Featured Projects
-### **Amazon Prime Video Clone**
-🔧 Built a complete CI/CD pipeline using **Jenkins**, **Docker**, **Trivy**, and **SonarQube** for automated code quality checks. Deployed the app on **AWS EKS** using **ArgoCD** for continuous deployment.  
-🔗 [View Repo](https://github.com/vikashlearns/amazon-prime-clone)
+### Amazon Prime Video Clone  
+🔧 Built a complete CI/CD pipeline using Jenkins, Docker, Trivy, and SonarQube for automated code quality checks. Deployed the app on AWS EKS using ArgoCD for continuous deployment.  
+🔗 [View Repo](https://github.com/vikashlearns/Amazon-Prime-Video-Clone)
 
 ### Starbucks Clone App  
 🔧 Automated infrastructure setup using Terraform and deployed a full-stack app on Kubernetes. Integrated SonarQube and Trivy for security scanning. Implemented DevSecOps practices for secure app deployments.  
