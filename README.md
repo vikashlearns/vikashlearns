@@ -32,9 +32,9 @@ I’m Vikash, a DevSecOps and Cloud Engineer with over a decade of experience. I
 🔧 Built a complete CI/CD pipeline using **Jenkins**, **Docker**, **Trivy**, and **SonarQube** for automated code quality checks. Deployed the app on **AWS EKS** using **ArgoCD** for continuous deployment.  
 🔗 [View Repo](https://github.com/vikashlearns/amazon-prime-clone)
 
-### **Starbucks Clone App**
-🔧 Automated infrastructure setup using **Terraform** and deployed a full-stack app on **Kubernetes**. Integrated **SonarQube** and **Trivy** for security scanning. Implemented **DevSecOps** practices for secure app deployments.  
-🔗 [View Repo](https://github.com/vikashlearns/starbucks-devsecops)
+### Starbucks Clone App  
+🔧 Automated infrastructure setup using Terraform and deployed a full-stack app on Kubernetes. Integrated SonarQube and Trivy for security scanning. Implemented DevSecOps practices for secure app deployments.  
+🔗 [View Repo](https://github.com/vikashlearns/starbucks-demo)
 
 ### **CloudSec Automation with Terraform & Ansible**
 🔧 Automated infrastructure provisioning for secure cloud environments using **Terraform** and **Ansible**. Created reusable modules for provisioning secure EC2 instances, EKS clusters, and setting up AWS IAM roles for security best practices.  
