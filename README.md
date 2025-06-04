@@ -54,7 +54,7 @@ Currently exploring:
 
 ## 📫 How to Reach Me
 - 📧 Email: [vikash.rawat1090@gmail.com](mailto:vikash.rawat1090@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/vikashrawat](https://linkedin.com/in/vikashrawat)
+- 💼 LinkedIn: [linkedin.com/in/vikashrawat](www.linkedin.com/in/vikash-rawat1090)
 - 🌐 Personal Website: [vikashlearns.xyz](https://vikashlearns.xyz)
 
 
